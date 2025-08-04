@@ -2,16 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=180&section=header&text=Kedhareswer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=55&descAlign=62&descSize=16"/>
 
-<img src="https://komarev.com/ghpvc/?username=Kedhareswer&label=Profile%20Views&color=6C63FF&style=flat"/>
-
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=500&lines=🚀+Crafting+Intelligence+with+Code;🌟+Building+Tomorrow's+AI+Solutions;⚡+Transforming+Data+into+Impact" alt="Typing Animation"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
 **Welcome to my Digital Universe**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 [**Explore Portfolio**](https://naa-peru.vercel.app/) • [**View Projects**](https://github.com/Kedhareswer?tab=repositories) • [**Kaggle Profile**](https://www.kaggle.com/kedhareswernaidu)
 
@@ -19,7 +16,7 @@
 
 ---
 
-<img align="right" alt="AI Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="AI Developer" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🚀 Featured Digital Creations
 
@@ -52,7 +49,7 @@
 
 ## 🛠️ Technology Arsenal
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<br/>
 
 <table>
 <tr>
@@ -93,7 +90,7 @@
 
 ## 📊 Performance Analytics
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+<br/>
 
 <table>
 <tr>
@@ -116,7 +113,7 @@
 
 ## 🌌 Research Universe
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150">
+<br/>
 
 </div>
 
@@ -125,7 +122,8 @@
 <td width="25%" align="center">
 
 ### 🏥 Medical AI
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+<br/>
 
 Deep learning applications in healthcare and medical imaging analysis
 
@@ -133,7 +131,8 @@ Deep learning applications in healthcare and medical imaging analysis
 <td width="25%" align="center">
 
 ### 🧬 Bioinformatics  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
+
+<br/>
 
 Gene function prediction and genomic data analysis using ML
 
@@ -141,7 +140,8 @@ Gene function prediction and genomic data analysis using ML
 <td width="25%" align="center">
 
 ### 🤖 LLM Systems
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+
+<br/>
 
 Advanced RAG architectures and prompt optimization techniques
 
@@ -149,7 +149,8 @@ Advanced RAG architectures and prompt optimization techniques
 <td width="25%" align="center">
 
 ### ⚡ MLOps
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+
+<br/>
 
 Scalable ML pipeline design and intelligent deployment strategies
 
@@ -163,7 +164,7 @@ Scalable ML pipeline design and intelligent deployment strategies
 
 ## 🌟 Connect & Collaborate
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="150">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 **"Where Data Science Meets Innovation"**
 
@@ -183,9 +184,11 @@ Scalable ML pipeline design and intelligent deployment strategies
 
 **Open to collaboration on groundbreaking AI research and innovative projects**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,32&height=100&section=footer&animation=twinkling"/>
+
+<img src="https://komarev.com/ghpvc/?username=Kedhareswer&label=Profile%20Views&color=6C63FF&style=flat"/>
 
 **⭐ Crafted with passion in the Digital Universe ⭐**
 
